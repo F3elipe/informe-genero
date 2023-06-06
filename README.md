@@ -5,4 +5,4 @@ El presente repositorio tiene como objetivo exhibir el trabajo realizado el año
 
 2.**input**: el repositorio carece de los input que se utilizaron en el informe debido al carácter de confidencialidad.
 
-3.**output**: Contiene el archivo .Rmd y a su vez incluye la creacion de los gráficos utilizados en el informe.
+3.**output**: Contiene el archivo .Rmd (`informe-género.Rmd`) que a su vez incluye la creación de los gráficos utilizados en el informe.
